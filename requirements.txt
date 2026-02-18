@@ -1,0 +1,9 @@
+speech_recognition as sr
+pyttsx3
+psutil
+datetime
+os
+webbrowser
+google.generativeai as genai
+# Load environment variables from .env file
+load_dotenv()
