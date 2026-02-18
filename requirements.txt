@@ -5,5 +5,3 @@ datetime
 os
 webbrowser
 google.generativeai as genai
-# Load environment variables from .env file
-load_dotenv()
